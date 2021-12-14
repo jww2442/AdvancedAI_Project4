@@ -1,4 +1,6 @@
 # AdvancedAI_Project4
+NOTE: To use this project, all four data files (new_gift_cards.json, masked_nouns.csv, masked_verbs.csv, masked_adj.csv) must be uploaded to the /home directory of the notebook. This project was done in Google Colab. Link here: https://colab.research.google.com/drive/1759dy7U5OX7nQEs41S3quytB9HeM0QCm?usp=sharing 
+
 Working with Transformer models. Applications used: GPT-2 text generation, Amazon review sentiment analysis, and Masked Language Modeling
 
 This was a lone project. We used HuggingFace Co.'s Transformer models to perform the above stated tasks. I have attached my report. 
